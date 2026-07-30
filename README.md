@@ -37,10 +37,7 @@ Our Solution bridges the gap between the customer, the kitchen, and management t
 * **Push Notifications:** Staff receive push notifications for new orders and updates.
 * **Seamless Billing:** Automated bill generation with tax (GST) calculation and print-ready formatting.
 
-### 📊 For Management (Operations & AI)
-* **Gemini Demand Forecasting:** AI analyzes historical order data to predict dish demand and suggest prep quantities for upcoming services.
-* **Gemini Ops Assistant:** A conversational AI agent for managers to ask natural language questions (e.g., *"What sold best last night?"* or *"Which tables are running long?"*).
-* **Multi-Tenant Architecture:** Built from day one to support multiple restaurant branches.
+
 
 ---
 
